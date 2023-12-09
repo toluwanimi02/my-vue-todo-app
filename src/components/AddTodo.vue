@@ -1,8 +1,8 @@
 
 <template>
     <div>
-      <input v-model="newTodo" placeholder="Enter todo here" />
-      <button @click="addNewTodo">Add Todo</button>
+      <input v-model="newTodo" placeholder="enter todo here" />
+      <button @click="addNewTodo">Add-Todo</button>
     </div>
   </template>
   

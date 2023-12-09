@@ -52,24 +52,27 @@ body {
   padding-top: 50px;
 }
 h1 {
-  font-family: system-ui, sans-serif;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 input {
   font-size: 18px;
+  border-radius: 20px;
+  border-width: 18px;
 }
 button {
-  font-size: 18px;
+  font-size: 19px;
   margin-top: 15px;
   margin-left: 5px;
+  border-radius: 18px 0 ;
 }
 li {
   text-decoration: none;
-  list-style: none;
+  list-style: disc;
   font-size: 30px;
   margin-left: 5px;
   color: #f0f0f0;
 }
 button:hover {
-  background-color: #0ce4f0;
+  background-color: rgba(22, 27, 27, 0.596);
 }
 </style>
