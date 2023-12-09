@@ -47,7 +47,7 @@ export default {
   padding: 15px;
 }
 body {
-  background-color: #00b2c2;
+  background-color: #ffff;
   font-family: system-ui, serif;
   padding-top: 50px;
 }
